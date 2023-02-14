@@ -36,6 +36,6 @@ dateMujer.addEventListener("click", function() {
   datePhone.addEventListener("click", function() {
     dateContainer.innerHTML = 
     `<p class="textIcon">Mi telefono es</p>
-    <h3>(354) 585-1455</h3>    
+    <h3>(354) 585-1455</h3>
     `;
   });
